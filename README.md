@@ -47,21 +47,24 @@
 ## ⚙️ Multi-Disciplinary System Flow
 
 ```mermaid
-graph TD
+graph LR
     subgraph P1 ["🔐 Biometric Cross-Chain DID Engine"]
+        direction TD
         A1[FaceNet 512d Embedding] --> B1[Hardware Enclave Salt Generator] --> C1[TEE SECP256k1 Key Derivation]
     end
 
     subgraph P2 ["🤖 GNN Smart Contract Auditor"]
+        direction TD
         A2[Solana BPF Bytecode] --> B2[Control-Flow Graph Extraction] --> C2[TensorFlow-GNN Risk Score]
     end
 
     subgraph P3 ["⚡ Bio-Signal Trading Circuit Breaker"]
+        direction TD
         A3[Market Volatility / VIX] & A4[Biometric Telemetry / RMSSD] --> B3[Cortisol-Beta & Decay Engine] --> C3[Dynamic Leverage Scaling]
     end
 
-    %% Force Left-to-Right horizontal layout ordering
-    A1 ~~~ A2 ~~~ A3
+    %% Force Left-to-Right horizontal ordering across the 3 subgraphs
+    P1 ~~~ P2 ~~~ P3
 
     %% 🟡 1st: Biometric Cross-Chain DID Engine (Yellow)
     style A1 fill:#eab308,stroke:#000,color:#000
