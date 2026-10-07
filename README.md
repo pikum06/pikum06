@@ -2,8 +2,6 @@
 
 # ⚡ Piyush Kumar | Quant Finance & AI Specialist ⚡
 
-
-
 <br/>
 
 <!-- Standalone Centered Visual Banner -->
@@ -14,6 +12,7 @@
 <br/>
 
 ---
+
 ## 🚀 <b> ABOUT & RESEARCH FOCUS </b> </h3>
 <p align="center"><b> WIPO Patent Holder • Independent Quantitative Researcher </b></p>
 <p align="left"><b>🏥 Healthcare & Household Economics</b></p>
@@ -31,8 +30,6 @@
 </ul>
 
 </div>
-
----
 
 <div align="left">
   
@@ -94,7 +91,6 @@ graph LR
 | **Behavioral Volatility (BVI)** | `Extended Solvency Runway` | Dynamic fee adjustment backtested against 2022 Terra-Luna collapse |
 | **Smart Contract Auditor** | `Instant Binary-to-Graph Approval` | Raw machine code parsing into NetworkX directed logic graphs |
 | **Behavioral Microstructure** | `Smooth-Decay Risk Mapping` | Dynamic hedge ratio calibration matching order flow volatility against "Experience Effect" biases |
-
 
 ---
 
@@ -160,8 +156,6 @@ graph LR
 
 </div>
 
----
-
 ## 📊 GitHub Streak Telemetry
 
 <div align="center">
@@ -178,4 +172,3 @@ graph LR
 
 </div>
 
----
