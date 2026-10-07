@@ -10,13 +10,13 @@
   <tr>
     <td width="60%" valign="top">
       <h3 align="left">🚀 About & Research Focus</h3>
-      <p align="left"><b>Quant Finance & AI Specialist • WIPO Patent Holder • Applied Cryptographer</b></p>
+      <p align="left"><b> Quant Finance & AI Specialist • WIPO Patent Holder • Applied Cryptographer </b></p>
       <blockquote align="left">
         <i>"Translating empirical behavioral observations—such as the 'Experience Effect'—into programmatic circuit breakers that preserve institutional solvency during periods of acute market panic."</i>
       </blockquote>
       <ul align="left">
-        <li>⚡ <b>Quantitative Modeling</b>: Bio-signal risk dampening, physiological stress ($RMSSD$) proxies, and Behavioral Volatility Index ($BVI$) mechanics.</li>
         <li>🔐 <b>Web3 & Cryptography</b>: TEE-isolated biometric salt generation (<code>WIPO PCT/IB2026/058453</code>), cross-chain $SECP256k1$ key derivation, and TensorFlow-GNN bytecode auditing.</li>
+        <li>⚡ <b>Quantitative Modeling</b>: Bio-signal risk dampening, physiological stress ($RMSSD$) proxies, and Behavioral Volatility Index ($BVI$) mechanics.</li>
         <li>🎓 <b>Education</b>: Dual Degree in B.Tech (Hons.) Computer Science & MBA in Finance.</li>
       </ul>
     </td>
@@ -51,29 +51,23 @@
 ### ⚙️ Multi-Disciplinary System Flow
 
 ```mermaid
-graph LR
-    subgraph Telemetry ["1. Telemetry Ingestion"]
-        A1[Biometric Telemetry / RMSSD]
-        A2[Market Volatility / VIX]
+graph TD
+    subgraph P1 ["⚡ Bio-Signal Trading Circuit Breaker"]
+        A1[Biometric Telemetry / RMSSD] & A2[Market Volatility / VIX] --> B1[Cortisol-Beta & Decay Engine] --> C1[Dynamic Leverage Scaling]
     end
 
-    subgraph Engines ["2. Quantitative Processing"]
-        B1[Cortisol-Beta Correlation]
-        B2[GNN Bytecode Auditor]
-        B3[Behavioral Decay Engine]
+    subgraph P2 ["🤖 GNN Smart Contract Auditor"]
+        A3[Solana BPF Bytecode] --> B2[Control-Flow Graph Extraction] --> C2[TensorFlow-GNN Risk Score]
     end
 
-    subgraph Execution ["3. Solvency & Risk Control"]
-        C1[Dynamic Leverage Scaling]
-        C2[TEE Enclave Key Derivation]
-        C3[Streamlit Analytics Control]
+    subgraph P3 ["🔐 Biometric Cross-Chain DID Engine"]
+        A4[FaceNet 512d Embedding] --> B3[Hardware Enclave Salt Generator] --> C3[TEE SECP256k1 Key Derivation]
     end
-
-    Telemetry --> Engines --> Execution
 
     style B1 fill:#7b2cbf,stroke:#fff,color:#fff
     style C1 fill:#14f195,stroke:#000,color:#000
-    style C3 fill:#ff4b4b,stroke:#fff,color:#fff
+    style C2 fill:#ff4b4b,stroke:#fff,color:#fff
+    style C3 fill:#eab308,stroke:#000,color:#000
 ```
 
 ---
@@ -133,8 +127,8 @@ graph LR
 
 | Research Pillar | Key Metric / Metric Indicator | Execution / Proof-of-Concept |
 | :--- | :--- | :--- |
-| **Biological Circuit Breaker** | `Avg Coupling: 0.03` (Orthogonal Signal) | Proven independence between bio-stress indicators & market volatility |
 | **Biometric Cross-Chain DID** | $D_{\text{cosine}} < 0.60$ | CLAHE + 512-d FaceNet vector extraction in isolated TEE enclaves |
+| **Biological Circuit Breaker** | `Avg Coupling: 0.03` (Orthogonal Signal) | Proven independence between bio-stress indicators & market volatility |
 | **Behavioral Volatility (BVI)** | `Extended Solvency Runway` | Dynamic fee adjustment backtested against 2022 Terra-Luna collapse |
 | **Smart Contract Auditor** | `Instant Binary-to-Graph Approval` | Raw machine code parsing into NetworkX directed logic graphs |
 
