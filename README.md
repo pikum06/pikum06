@@ -57,7 +57,7 @@ graph TD
     end
 
     subgraph P3 ["⚡ Bio-Signal Trading Circuit Breaker"]
-        A3[Biometric Telemetry / RMSSD] & A4[Market Volatility / VIX] --> B3[Cortisol-Beta & Decay Engine] --> C3[Dynamic Leverage Scaling]
+        A3[Market Volatility / VIX] & A4[Biometric Telemetry / RMSSD] --> B3[Cortisol-Beta & Decay Engine] --> C3[Dynamic Leverage Scaling]
     end
 
     %% 🟡 1st: Biometric Cross-Chain DID Engine (Yellow)
