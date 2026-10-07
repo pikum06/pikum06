@@ -108,53 +108,56 @@ graph LR
 
 ---
 
-## 🛠️ Tools & Technologies  
+## 🛠️ Tools & Technologies
 
-**Languages & Core Systems**
+<div align="center">
 
-<div align="center"> 
-<br/>
-    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" alt="rust" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="r" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="center">Domain</th>
+      <th align="center">Technologies & Infrastructure</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><b>Languages&nbsp;&&nbsp;Core&nbsp;Systems</b></td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/python/3776AB" height="28" alt="Python"/> &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/rust/000000/ffffff" height="28" alt="Rust"/> &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/r/276DC3" height="28" alt="R"/> &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/linux/FCC624" height="28" alt="Linux"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>AI,&nbsp;ML&nbsp;&&nbsp;Econometrics</b></td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="28" alt="TensorFlow"/> &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28" alt="Scikit-Learn"/> &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="28" alt="OpenCV"/> &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/pandas/150458/ffffff" height="28" alt="Pandas"/> &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/numpy/013243/ffffff" height="28" alt="NumPy"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Blockchain&nbsp;&&nbsp;Web3</b></td>
+      <td align="center">
+        <img src="https://cdn.simpleicons.org/solana/14F195" height="28" alt="Solana"/> &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/ethereum/627EEA" height="28" alt="Ethereum"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="left"><b>Analytics&nbsp;&&nbsp;Dev&nbsp;Tools</b></td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="28" alt="VS Code"/> &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/git/F05032" height="28" alt="Git"/> &nbsp;&nbsp;
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" height="28" alt="Tableau"/> &nbsp;&nbsp;
+        <img src="https://cdn.simpleicons.org/jupyter/F37626" height="28" alt="Jupyter"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-<br/><br/> </div>
-
-**AI, Machine Learning & Computer Vision**
-
-<div align="center">  
-<br/>
-    
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikitlearn" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="opencv" width="50" height="50"/>
-
-<br/><br/> </div>
-
-**Blockchain & Decentralized Web3**
-
-<div align="center">  
-<br/>
-<img src="https://cdn.simpleicons.org/solana/14F195" alt="solana" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/ethereum/3C3C3D" alt="ethereum" width="50" height="50"/>
-
-<br/><br/> </div>
-
-**Data Engineering, Analytics & Developer Tools**
-
-<div align="center"> 
-<br/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" alt="streamlit" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="50" height="50"/> &nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="50" height="50"/>
-
-<br/><br/>
-</div>
 </div>
 
 ---
@@ -162,7 +165,17 @@ graph LR
 ## 📊 GitHub Streak Telemetry
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pikum06&theme=tokyonight&hide_border=true" alt="Piyush's Streak Stats" width="90%"/>
+ <table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=pikum06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14f195&icon_color=3b82f6&text_color=c9d1d9&hide_rank=true" width="100%" alt="GitHub Profile Stats"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pikum06&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=14f195&currStreakNum=14f195&sideNums=3b82f6&sideLabels=8b949e&dates=8b949e" width="100%" alt="GitHub Streak Telemetry"/>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 ---
@@ -171,7 +184,12 @@ graph LR
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/Personal_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/piyushkumar06/about)  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GwEBOKYAAAAJ)  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1669-5903)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Piyush-Kumar-1787)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/piyush-kumar-pk06)  [![X (@piyushk_06)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/piyushk_06)
+<a href="https://sites.google.com/view/piyushkumar06/about" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a> &nbsp;
+<a href="https://scholar.google.com/citations?user=GwEBOKYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a> &nbsp;
+<a href="https://orcid.org/0000-0003-1669-5903" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a> &nbsp;
+<a href="https://www.researchgate.net/profile/Piyush-Kumar-1787" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a> &nbsp;
+<a href="https://in.linkedin.com/in/piyush-kumar-pk06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
+<a href="https://x.com/piyushk_06" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
 
 </div>
 </div>
