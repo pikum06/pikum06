@@ -60,6 +60,9 @@ graph TD
         A3[Market Volatility / VIX] & A4[Biometric Telemetry / RMSSD] --> B3[Cortisol-Beta & Decay Engine] --> C3[Dynamic Leverage Scaling]
     end
 
+    %% Force Left-to-Right horizontal layout ordering
+    A1 ~~~ A2 ~~~ A3
+
     %% 🟡 1st: Biometric Cross-Chain DID Engine (Yellow)
     style A1 fill:#eab308,stroke:#000,color:#000
     style B1 fill:#eab308,stroke:#000,color:#000
