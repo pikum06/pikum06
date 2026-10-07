@@ -156,6 +156,8 @@ graph LR
 
 </div>
 
+---
+
 ## 📊 GitHub Streak Telemetry
 
 <div align="center">
