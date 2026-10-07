@@ -48,22 +48,22 @@
 
 ```mermaid
 graph TD
-    subgraph P3 ["🔐 Biometric Cross-Chain DID Engine"]
-        A3[FaceNet 512d Embedding] --> B3[Hardware Enclave Salt Generator] --> C3[TEE SECP256k1 Key Derivation]
+    subgraph P1 ["🔐 Biometric Cross-Chain DID Engine"]
+        A1[FaceNet 512d Embedding] --> B1[Hardware Enclave Salt Generator] --> C1[TEE SECP256k1 Key Derivation]
     end
 
     subgraph P2 ["🤖 GNN Smart Contract Auditor"]
         A2[Solana BPF Bytecode] --> B2[Control-Flow Graph Extraction] --> C2[TensorFlow-GNN Risk Score]
     end
 
-    subgraph P1 ["⚡ Bio-Signal Trading Circuit Breaker"]
-        A1[Market Volatility / VIX] & A4[Biometric Telemetry / RMSSD] --> B1[Cortisol-Beta & Decay Engine] --> C1[Dynamic Leverage Scaling]
+    subgraph P3 ["⚡ Bio-Signal Trading Circuit Breaker"]
+        A3[Market Volatility / VIX] & A4[Biometric Telemetry / RMSSD] --> B3[Cortisol-Beta & Decay Engine] --> C3[Dynamic Leverage Scaling]
     end
 
     %% 🟡 1st: Biometric Cross-Chain DID Engine (Yellow)
-    style A3 fill:#eab308,stroke:#000,color:#000
-    style B3 fill:#eab308,stroke:#000,color:#000
-    style C3 fill:#eab308,stroke:#000,color:#000
+    style A1 fill:#eab308,stroke:#000,color:#000
+    style B1 fill:#eab308,stroke:#000,color:#000
+    style C1 fill:#eab308,stroke:#000,color:#000
 
     %% 🟢 2nd: GNN Smart Contract Auditor (Green)
     style A2 fill:#14f195,stroke:#000,color:#000
@@ -71,10 +71,10 @@ graph TD
     style C2 fill:#14f195,stroke:#000,color:#000
 
     %% 🔵 3rd: Bio-Signal Circuit Breaker (Blue)
-    style A1 fill:#3b82f6,stroke:#fff,color:#fff
+    style A3 fill:#3b82f6,stroke:#fff,color:#fff
     style A4 fill:#3b82f6,stroke:#fff,color:#fff
-    style B1 fill:#3b82f6,stroke:#fff,color:#fff
-    style C1 fill:#3b82f6,stroke:#fff,color:#fff
+    style B3 fill:#3b82f6,stroke:#fff,color:#fff
+    style C3 fill:#3b82f6,stroke:#fff,color:#fff
 ```
 
 ---
