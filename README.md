@@ -48,7 +48,7 @@
 
 ```mermaid
 graph TD
-    subgraph P1 ["🔐 Biometric Cross-Chain DID Engine"]
+    subgraph P3 ["🔐 Biometric Cross-Chain DID Engine"]
         A1[FaceNet 512d Embedding] --> B1[Hardware Enclave Salt Generator] --> C1[TEE SECP256k1 Key Derivation]
     end
 
@@ -56,7 +56,7 @@ graph TD
         A2[Solana BPF Bytecode] --> B2[Control-Flow Graph Extraction] --> C2[TensorFlow-GNN Risk Score]
     end
 
-    subgraph P3 ["⚡ Bio-Signal Trading Circuit Breaker"]
+    subgraph P1 ["⚡ Bio-Signal Trading Circuit Breaker"]
         A3[Market Volatility / VIX] & A4[Biometric Telemetry / RMSSD] --> B3[Cortisol-Beta & Decay Engine] --> C3[Dynamic Leverage Scaling]
     end
 
