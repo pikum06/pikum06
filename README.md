@@ -179,18 +179,3 @@ graph LR
 </div>
 
 ---
-
-## 📬 Academic & Professional Links
-
-<div align="center">
-
-<a href="https://sites.google.com/view/piyushkumar06/about" target="_blank"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/></a> &nbsp;
-<a href="https://scholar.google.com/citations?user=GwEBOKYAAAAJ" target="_blank"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/></a> &nbsp;
-<a href="https://orcid.org/0000-0003-1669-5903" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/></a> &nbsp;
-<a href="https://www.researchgate.net/profile/Piyush-Kumar-1787" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"/></a> &nbsp;
-<a href="https://in.linkedin.com/in/piyush-kumar-pk06" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a> &nbsp;
-<a href="https://x.com/piyushk_06" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-
-</div>
-</div>
-
