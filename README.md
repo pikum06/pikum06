@@ -48,33 +48,33 @@
 
 ```mermaid
 graph TD
-    subgraph P3 ["🔐 Biometric Cross-Chain DID Engine"]
-        A4[FaceNet 512d Embedding] --> B3[Hardware Enclave Salt Generator] --> C3[TEE SECP256k1 Key Derivation]
+    subgraph P1 ["🔐 Biometric Cross-Chain DID Engine"]
+        A1[FaceNet 512d Embedding] --> B1[Hardware Enclave Salt Generator] --> C1[TEE SECP256k1 Key Derivation]
     end
 
     subgraph P2 ["🤖 GNN Smart Contract Auditor"]
-        A3[Solana BPF Bytecode] --> B2[Control-Flow Graph Extraction] --> C2[TensorFlow-GNN Risk Score]
+        A2[Solana BPF Bytecode] --> B2[Control-Flow Graph Extraction] --> C2[TensorFlow-GNN Risk Score]
     end
 
-    subgraph P1 ["⚡ Bio-Signal Trading Circuit Breaker"]
-        A1[Market Volatility / VIX] & A2[Biometric Telemetry / RMSSD] --> B1[Cortisol-Beta & Decay Engine] --> C1[Dynamic Leverage Scaling]
+    subgraph P3 ["⚡ Bio-Signal Trading Circuit Breaker"]
+        A3[Biometric Telemetry / RMSSD] & A4[Market Volatility / VIX] --> B3[Cortisol-Beta & Decay Engine] --> C3[Dynamic Leverage Scaling]
     end
 
-    %% 🟡 Biometric DID Engine (Yellow Theme)
-    style A4 fill:#eab308,stroke:#000,color:#000
-    style B3 fill:#eab308,stroke:#000,color:#000
-    style C3 fill:#eab308,stroke:#000,color:#000
+    %% 🟡 1st: Biometric Cross-Chain DID Engine (Yellow)
+    style A1 fill:#eab308,stroke:#000,color:#000
+    style B1 fill:#eab308,stroke:#000,color:#000
+    style C1 fill:#eab308,stroke:#000,color:#000
 
-    %% 🔴 GNN Smart Contract Auditor (Red/Orange Theme)
-    style A3 fill:#ff4b4b,stroke:#fff,color:#fff
-    style B2 fill:#ff4b4b,stroke:#fff,color:#fff
-    style C2 fill:#ff4b4b,stroke:#fff,color:#fff
-
-    %% 🟢 Bio-Signal Circuit Breaker (Green Theme)
-    style A1 fill:#14f195,stroke:#000,color:#000
+    %% 🟢 2nd: GNN Smart Contract Auditor (Green)
     style A2 fill:#14f195,stroke:#000,color:#000
-    style B1 fill:#14f195,stroke:#000,color:#000
-    style C1 fill:#14f195,stroke:#000,color:#000
+    style B2 fill:#14f195,stroke:#000,color:#000
+    style C2 fill:#14f195,stroke:#000,color:#000
+
+    %% 🔵 3rd: Bio-Signal Circuit Breaker (Blue)
+    style A3 fill:#3b82f6,stroke:#fff,color:#fff
+    style A4 fill:#3b82f6,stroke:#fff,color:#fff
+    style B3 fill:#3b82f6,stroke:#fff,color:#fff
+    style C3 fill:#3b82f6,stroke:#fff,color:#fff
 ```
 
 ---
