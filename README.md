@@ -2,45 +2,41 @@
 
 # ⚡ Piyush Kumar | Quant Finance & AI Specialist ⚡
 
+
+
+<br/>
+
+<!-- Standalone Centered Visual Banner -->
+<img src="https://github.com/user-attachments/assets/186c4b26-c028-4127-9f3a-cffb1134459f" alt="Floating Astronaut" width="500"/>
+
 </div>
 
-<div align="center">
+<br/>
 
-<table>
-  <tr>
-    <td width="60%" valign="top">
-      <h3 align="left">🚀 About & Research Focus</h3>
-      <p align="left"><b> Quant Finance & AI Specialist • WIPO Patent Holder • Applied Cryptographer </b></p>
-      <blockquote align="left">
-        <i>"Translating empirical behavioral observations—such as the 'Experience Effect'—into programmatic circuit breakers that preserve institutional solvency during periods of acute market panic."</i>
-      </blockquote>
-      <ul align="left">
-        <li>🔐 <b>Web3 & Cryptography</b>: TEE-isolated biometric salt generation (<code>WIPO PCT/IB2026/058453</code>), cross-chain $SECP256k1$ key derivation, and TensorFlow-GNN bytecode auditing.</li>
-        <li>⚡ <b>Quantitative Modeling</b>: Bio-signal risk dampening, physiological stress ($RMSSD$) proxies, and Behavioral Volatility Index ($BVI$) mechanics.</li>
-        <li>🎓 <b>Education</b>: Dual Degree in B.Tech (Hons.) Computer Science & MBA in Finance.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center" valign="middle">
-      <img src="https://github.com/user-attachments/assets/186c4b26-c028-4127-9f3a-cffb1134459f" alt="Floating Astronaut" width="100%"/>
-    </td>
-  </tr>
-</table>
+---
+## 🚀 <b> ABOUT & RESEARCH FOCUS </b> </h3>
+<p align="center"><b> WIPO Patent Holder • Independent Quantitative Researcher </b></p>
+<p align="left"><b>🏥 Healthcare & Household Economics</b></p>
+<blockquote align="left">
+<i>"Formulating multi-stakeholder equilibrium models and structural default frameworks, aligning value-based precision capitation incentives while quantifying household financial risks under digital search frictions."</i> 
+</blockquote>
+<p align="left"><b>📈 Quant Finance & Market Microstructure</b></p>
+<blockquote align="left">
+<i>"Translating behavioral observations, such as the 'Experience Effect'—into programmatic circuit breakers that preserve institutional solvency during periods of acute market panic."</i>
+</blockquote>
+<ul align="left">
+<li>🏥 <b>Healthcare & Household Econ</b>: Multi-stakeholder precision capitation equilibrium models, digital rental search mortgage risk indicators, and health capital accumulation dynamics.</li>
+<li>🔐 <b>Web3 & Cryptography</b>: TEE-isolated biometric salt generation (<code>WIPO PCT/IB2026/058453</code>), cross-chain $SECP256k1$ key derivation, and TensorFlow-GNN bytecode auditing.</li>
+<li>⚡ <b>Quantitative Modeling</b>: Bio-signal risk dampening, physiological stress ($RMSSD$) proxies, and Behavioral Volatility Index ($BVI$) mechanics.</li>
+</ul>
 
 </div>
 
 ---
 
 <div align="left">
-
-### 📊 GitHub Streak Telemetry
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pikum06&theme=tokyonight&hide_border=true" alt="Piyush's Streak Stats" width="90%"/>
-</div>
-
----
-
-### 🔬 Active Workbench & Current Experiments
+  
+## 🔬 Active Workbench & Current Experiments
 
 - ⚡ **Bio-Signal Circuit Breakers**: Fine-tuning $RMSSD$ physiological stress thresholds against high-frequency crypto market crashes to automate leverage dampening ($10\times \rightarrow 1\times$).
 - 🛡️ **BPF Bytecode Risk Scoring**: Extracting directed control-flow graphs (CFGs) from compiled Rust/Solana binaries for real-time TensorFlow-GNN vulnerability detection.
@@ -48,31 +44,65 @@
 
 ---
 
-### ⚙️ Multi-Disciplinary System Flow
+## ⚙️ Multi-Disciplinary System Flow
 
 ```mermaid
 graph TD
-    subgraph P1 ["⚡ Bio-Signal Trading Circuit Breaker"]
-        A1[Biometric Telemetry / RMSSD] & A2[Market Volatility / VIX] --> B1[Cortisol-Beta & Decay Engine] --> C1[Dynamic Leverage Scaling]
+    subgraph P3 ["🔐 Biometric Cross-Chain DID Engine"]
+        A4[FaceNet 512d Embedding] --> B3[Hardware Enclave Salt Generator] --> C3[TEE SECP256k1 Key Derivation]
     end
 
     subgraph P2 ["🤖 GNN Smart Contract Auditor"]
         A3[Solana BPF Bytecode] --> B2[Control-Flow Graph Extraction] --> C2[TensorFlow-GNN Risk Score]
     end
 
-    subgraph P3 ["🔐 Biometric Cross-Chain DID Engine"]
-        A4[FaceNet 512d Embedding] --> B3[Hardware Enclave Salt Generator] --> C3[TEE SECP256k1 Key Derivation]
+    subgraph P1 ["⚡ Bio-Signal Trading Circuit Breaker"]
+        A1[Market Volatility / VIX] & A2[Biometric Telemetry / RMSSD] --> B1[Cortisol-Beta & Decay Engine] --> C1[Dynamic Leverage Scaling]
     end
 
-    style B1 fill:#7b2cbf,stroke:#fff,color:#fff
-    style C1 fill:#14f195,stroke:#000,color:#000
-    style C2 fill:#ff4b4b,stroke:#fff,color:#fff
+    %% 🟡 Biometric DID Engine (Yellow Theme)
+    style A4 fill:#eab308,stroke:#000,color:#000
+    style B3 fill:#eab308,stroke:#000,color:#000
     style C3 fill:#eab308,stroke:#000,color:#000
+
+    %% 🔴 GNN Smart Contract Auditor (Red/Orange Theme)
+    style A3 fill:#ff4b4b,stroke:#fff,color:#fff
+    style B2 fill:#ff4b4b,stroke:#fff,color:#fff
+    style C2 fill:#ff4b4b,stroke:#fff,color:#fff
+
+    %% 🟢 Bio-Signal Circuit Breaker (Green Theme)
+    style A1 fill:#14f195,stroke:#000,color:#000
+    style A2 fill:#14f195,stroke:#000,color:#000
+    style B1 fill:#14f195,stroke:#000,color:#000
+    style C1 fill:#14f195,stroke:#000,color:#000
 ```
 
 ---
 
-### ⚙️Tools & Technologies  
+## 📊 Benchmarks & System Metrics
+
+| Research Pillar | Key Metric / Metric Indicator | Execution / Proof-of-Concept |
+| :--- | :--- | :--- |
+| **Biometric Cross-Chain DID** | $D_{\text{cosine}} < 0.60$ | CLAHE + 512-d FaceNet vector extraction in isolated TEE enclaves |
+| **Biological Circuit Breaker** | `Avg Coupling: 0.03` (Orthogonal Signal) | Proven independence between bio-stress indicators & market volatility |
+| **Behavioral Volatility (BVI)** | `Extended Solvency Runway` | Dynamic fee adjustment backtested against 2022 Terra-Luna collapse |
+| **Smart Contract Auditor** | `Instant Binary-to-Graph Approval` | Raw machine code parsing into NetworkX directed logic graphs |
+| **Behavioral Microstructure** | `Smooth-Decay Risk Mapping` | Dynamic hedge ratio calibration matching order flow volatility against "Experience Effect" biases |
+
+
+---
+
+## 📦Production Repositories & Research Codebases
+
+- 🧬 [**`hormone-responsive-smart-portfolio`**](https://github.com/pikum06/hormone-responsive-smart-portfolio): Interactive visual analytics & backtest suite quantifying bio-signal-driven portfolio risk management.
+- 🔐 [**`biometric-did-engine`**](https://github.com/pikum06/biometric-did-engine): Hardware Enclave biometric salt generator & risk-adaptive cross-chain identity engine (WIPO PCT/IB2026/058453).
+- 🤖 [**`gnn-smart-contract-auditor-demo`**](https://github.com/pikum06/gnn-smart-contract-auditor-demo): TensorFlow-GNN pipeline auditing compiled Solana BPF bytecode for instant safety approvals.
+- 📉 [**`risk-adaptive-stablecoin-bvi-demo`**](https://github.com/pikum06/risk-adaptive-stablecoin-bvi-demo): Behavioral Volatility Index ($BVI$) framework modeling protocol solvency during extreme market drawdowns.
+- 📊 [**`behavioral-microstructure-matching-engine-demo`**](https://github.com/pikum06/behavioral-microstructure-matching-engine-demo): Analytical framework and visual execution suite evaluating high-frequency market microstructure, limit order book matching matrices, and behavioral liquidity dynamics.
+
+---
+
+## 🛠️ Tools & Technologies  
 
 **Languages & Core Systems**
 
@@ -123,28 +153,20 @@ graph TD
 
 ---
 
-### 📊 Benchmarks & System Metrics
+## 📊 GitHub Streak Telemetry
 
-| Research Pillar | Key Metric / Metric Indicator | Execution / Proof-of-Concept |
-| :--- | :--- | :--- |
-| **Biometric Cross-Chain DID** | $D_{\text{cosine}} < 0.60$ | CLAHE + 512-d FaceNet vector extraction in isolated TEE enclaves |
-| **Biological Circuit Breaker** | `Avg Coupling: 0.03` (Orthogonal Signal) | Proven independence between bio-stress indicators & market volatility |
-| **Behavioral Volatility (BVI)** | `Extended Solvency Runway` | Dynamic fee adjustment backtested against 2022 Terra-Luna collapse |
-| **Smart Contract Auditor** | `Instant Binary-to-Graph Approval` | Raw machine code parsing into NetworkX directed logic graphs |
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pikum06&theme=tokyonight&hide_border=true" alt="Piyush's Streak Stats" width="90%"/>
+</div>
 
 ---
 
-### 📦Production Repositories & Research Codebases
-
-- 🧬 [**`hormone-responsive-smart-portfolio`**](https://github.com/pikum06/hormone-responsive-smart-portfolio): Interactive visual analytics & backtest suite quantifying bio-signal-driven portfolio risk management.
-- 🔐 [**`biometric-did-engine`**](https://github.com/pikum06/biometric-did-engine): Hardware Enclave biometric salt generator & risk-adaptive cross-chain identity engine (WIPO PCT/IB2026/058453).
-- 🤖 [**`gnn-smart-contract-auditor-demo`**](https://github.com/pikum06/gnn-smart-contract-auditor-demo): TensorFlow-GNN pipeline auditing compiled Solana BPF bytecode for instant safety approvals.
-- 📉 [**`risk-adaptive-stablecoin-bvi-demo`**](https://github.com/pikum06/risk-adaptive-stablecoin-bvi-demo): Behavioral Volatility Index ($BVI$) framework modeling protocol solvency during extreme market drawdowns.
-- 📊 [**`behavioral-microstructure-matching-engine-demo`**](https://github.com/pikum06/behavioral-microstructure-matching-engine-demo): Analytical framework and visual execution suite evaluating high-frequency market microstructure, limit order book matching matrices, and behavioral liquidity dynamics.
----
-
-### 📬 Academic & Professional Links
+## 📬 Academic & Professional Links
 
 <div align="center">
 
 [![Website](https://img.shields.io/badge/Personal_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/piyushkumar06/about)  [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=GwEBOKYAAAAJ)  [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-1669-5903)  [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Piyush-Kumar-1787)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/piyush-kumar-pk06)  [![X (@piyushk_06)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/piyushk_06)
+
+</div>
+</div>
+
