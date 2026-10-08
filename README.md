@@ -160,17 +160,16 @@ graph LR
 
 ## 📊 GitHub Streak Telemetry
 
-<div align="center">
- <table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=pikum06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14f195&icon_color=3b82f6&text_color=c9d1d9&hide_rank=true" width="100%" alt="GitHub Profile Stats"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pikum06&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=14f195&currStreakNum=14f195&sideNums=3b82f6&sideLabels=8b949e&dates=8b949e" width="100%" alt="GitHub Streak Telemetry"/>
-    </td>
-  </tr>
+<<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pikum06&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=14f195&icon_color=3b82f6&text_color=c9d1d9&hide_rank=true&cache=true" width="100%" alt="GitHub Profile Stats"/>
+</td>
+<td width="50%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pikum06&theme=tokyonight&hide_border=true&background=0d1117&ring=3b82f6&fire=14f195&currStreakNum=14f195&sideNums=3b82f6&sideLabels=8b949e&dates=8b949e&cache=true" width="100%" alt="GitHub Streak Telemetry"/>
+</td>
+</tr>
 </table>
-
 </div>
 
